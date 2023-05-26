@@ -20,8 +20,8 @@ ToC:
 
 ----
 ### <a name="webapps"></a>webapps
-+ ...
-+ ...
++ https://www.get.inc/tools/social-media-username-checker
++ https://www.sowsearch.info/ - Facebook Search (!!!)
 + ...
 
 ----
@@ -36,6 +36,9 @@ ToC:
 + https://iganony.io/
 + https://instafreeview.com/
 + https://www.instafollowers.co/find-instagram-user-id - Get Instagram ID
++ https://www.picuki.com/ - View, edit and share Instagram content
 + 
+
+ 
 
 ----
