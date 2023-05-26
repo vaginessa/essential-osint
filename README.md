@@ -7,9 +7,9 @@
 ToC:
 
 + <img src="https://github.com/vaginessa/essential-osint/blob/master/infosites.png?raw=true"  width="24" height="24"> [informational sites](#Infosites)
-+ <img src="https://github.com/vaginessa/essential-osint/blob/master/webapps.png"  width="24" height="24"> [WebApps](#webapps)
-+ <img src="https://github.com/vaginessa/essential-osint/blob/master/tools.png"  width="24" height="24"> [Tools](#tools)
-+ <img src="https://github.com/vaginessa/essential-osint/blob/master/insta.png"  width="24" height="24"> [Instagram](#insta)
++ <img src="https://github.com/vaginessa/essential-osint/blob/master/webapps.png?raw=true"  width="24" height="24"> [WebApps](#webapps)
++ <img src="https://github.com/vaginessa/essential-osint/blob/master/tools.png?raw=true"  width="24" height="24"> [Tools](#tools)
++ <img src="https://github.com/vaginessa/essential-osint/blob/master/insta.png?raw=true"  width="24" height="24"> [Instagram](#insta)
 
 (  http://best-web-design-tools.com/  )
 ----
