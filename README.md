@@ -9,6 +9,7 @@ ToC:
 + [informational sites](#infosites)
 + [webapps](#webapps)
 + [tools](#tools)
++ [Instagram](#insta)
 
 ----
 ### <a name="infosites"></a>informational sites
@@ -25,6 +26,12 @@ ToC:
 
 ----
 ### <a name="tools"></a>tools
++ ...
++ ...
++ ...
+
+----
+### <a name="insta"></a>Instagram
 + ...
 + ...
 + ...
