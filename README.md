@@ -1,5 +1,5 @@
 ### essential-osint https://vaginessa.github.io/essential-osint/
-#### custom picked OSINT Tools &amp; InformationZ ;-)
+#### custom picked OSINT Tools &amp; InformationZ ;-) (mostly SNS/Insta)
 
 ![osint](https://github.com/vaginessa/essential-osint/blob/master/osint.png?raw=true)
 
