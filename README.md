@@ -6,27 +6,27 @@
 ----
 ToC:
 
-+ <img src="https://github.com/vaginessa/essential-osint/blob/master/infosites.png?raw=true"  width="24" height="24"> [informational sites](#Infosites)
++ <img src="https://github.com/vaginessa/essential-osint/blob/master/infosites.png?raw=true"  width="24" height="24"> [Informational Websites](#Infosites)
 + <img src="https://github.com/vaginessa/essential-osint/blob/master/webapps.png?raw=true"  width="24" height="24"> [WebApps](#webapps)
 + <img src="https://github.com/vaginessa/essential-osint/blob/master/tools.png?raw=true"  width="24" height="24"> [Tools](#tools)
 + <img src="https://github.com/vaginessa/essential-osint/blob/master/insta.png?raw=true"  width="24" height="24"> [Instagram](#insta)
 
 (  http://best-web-design-tools.com/  )
 ----
-### <a name="infosites"></a>informational sites
+### <a name="infosites"></a>Informational Websites
 + https://ohshint.gitbook.io
 + ...
 + ...
 + ...
 
 ----
-### <a name="webapps"></a>webapps
+### <a name="webapps"></a>WebApps
 + https://www.get.inc/tools/social-media-username-checker
 + https://www.sowsearch.info/ - Facebook Search (!!!)
 + ...
 
 ----
-### <a name="tools"></a>tools
+### <a name="tools"></a>Tools
 + ...
 + ...
 + ...
