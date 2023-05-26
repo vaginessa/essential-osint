@@ -32,8 +32,9 @@ ToC:
 
 ----
 ### <a name="insta"></a>Instagram
-+ ...
-+ ...
-+ ...
++ https://instanavigation.com/
++ https://iganony.io/
++ https://instafreeview.com/
++ 
 
 ----
