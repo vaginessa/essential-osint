@@ -11,7 +11,7 @@ ToC:
 + <img src="https://github.com/vaginessa/essential-osint/blob/master/tools.png"  width="24" height="24"> [Tools](#tools)
 + <img src="https://github.com/vaginessa/essential-osint/blob/master/insta.png"  width="24" height="24"> [Instagram](#insta)
 
-http://best-web-design-tools.com/
+(  http://best-web-design-tools.com/  )
 ----
 ### <a name="infosites"></a>informational sites
 + https://ohshint.gitbook.io
