@@ -9,7 +9,7 @@ ToC:
 + [informational sites](#infosites)
 + [webapps](#webapps)
 + [tools](#tools)
-+ [Instagram](#insta)
++ [Instagram](#insta) <img src="https://github.com/vaginessa/essential-osint/blob/master/insta.png"  width="16" height="16">
 
 ----
 ### <a name="infosites"></a>informational sites
