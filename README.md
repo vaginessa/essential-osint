@@ -7,8 +7,8 @@
 ToC:
 
 + [informational sites](#infosites)
-+ webapps
-+ tools
++ [webapps](#webapps)
++ [tools](#tools)
 
 ----
 ### <a name="infosites"></a>informational sites
@@ -18,13 +18,13 @@ ToC:
 + ...
 
 ----
-
+### <a name="webapps"></a>webapps
 + ...
 + ...
 + ...
 
 ----
-
+### <a name="tools"></a>tools
 + ...
 + ...
 + ...
