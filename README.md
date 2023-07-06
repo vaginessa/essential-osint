@@ -2,7 +2,7 @@
 #### custom picked OSINT Tools &amp; InformationZ ;-) (mostly SNS/Insta)
 
 ![osint](https://github.com/vaginessa/essential-osint/blob/master/osint.png?raw=true)
-
+<dark-mode-toggle></dark-mode-toggle>
 ----
 ToC:
 
