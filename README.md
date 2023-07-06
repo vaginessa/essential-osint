@@ -51,5 +51,7 @@ ToC:
 + https://whatsmyname.app/
 + https://www.get.inc/tools/social-media-username-checker
 + https://www.sowsearch.info/ - Facebook Search (!!!)
++ https://blackbird-osint.herokuapp.com - https://github.com/p1ngul1n0/blackbird
++ 
 
 👁‍  🛠  🪩  🌐  ℹ️  🪪  🪬  🫶  🏴‍☠️ 🧐  😈  ☠️  💩  👽  👾  🤖  📧  ✉️  🔭 🔬 🔮  ⌨️ 🖥 🖨  🏥  🛡  🍭 🍬  🧄 🧅  🍍  🐾  🛜  🛜  
