@@ -28,13 +28,13 @@ ToC:
 ### <a name="webapps"></a>WebApps
 
 + https://httpreserve.info/ - archive websites
-+ https://osintgeek.de/tools
++ ..
 + 
 
 ----
 ### <a name="tools"></a>Tools
 + https://webrecorder.net/tools
-+ ...
++ https://osintgeek.de/tools
 + ...
 
 ----
