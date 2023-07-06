@@ -17,9 +17,8 @@ ToC:
 ### <a name="infosites"></a>Informational Websites
 + https://ohshint.gitbook.io
 + https://infosec.house/
-+ https://www.osintcombine.com/tools
-  
-+ ...
++ https://www.osintcombine.com/tools  
++ https://vaginessa.github.io/free-online-competitive-intelligence/
 
 ----
 ### <a name="webapps"></a>WebApps
