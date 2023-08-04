@@ -30,7 +30,7 @@ ToC:
 + https://httpreserve.info/ - archive websites
 + https://saveweb2zip.com/ - save pages locally
 + https://web2zip.ru/ - save pages locally
-+ 
++ https://co.wukko.me/ - all dl foss
 + 
 
 ----
