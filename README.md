@@ -3,6 +3,7 @@
 
 ![osint](https://github.com/vaginessa/essential-osint/blob/master/osint.png?raw=true)
 
+https://capsule-render.vercel.app/api?type=wave&color=yellow&height=200&section=footer&text=essential%20OSINT%21&fontSize=90
 
 ----
 ToC:
