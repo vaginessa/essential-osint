@@ -49,6 +49,13 @@ ToC:
 + https://www.instafollowers.co/find-instagram-user-id - Get Instagram ID
 + https://www.picuki.com/ - View, edit and share Instagram content
 + 
+**IMGinn.io**
+- Link: [IMGinn.io](https://imginn.io/)
+- Description: view and download all the content on the social network Instagram all at one place. 
+
+**Instaloader**
+- Link: [Instaloader](https://github.com/instaloader/instaloader)
+- Description: Download pictures (or videos) along with their captions and other metadata from Instagram.
 
  
 ----
